@@ -197,6 +197,3 @@ Guest contributions and sponsored publishing enquiries provide separate opportun
 Readers can begin exploring through the [official homepage](https://www.domikyo.com/) or find additional background on the [About page](https://www.domikyo.com/about-domikyo-com/).
 
 As with any online publication, individual articles should be assessed according to their accuracy, relevance, and purpose. Checking current information and consulting authoritative sources when necessary helps readers make informed use of the material they find.
-```
-
-To save it as a `.md` file, copy the content into a text editor and save it as `domikyo-about.md` using UTF-8 encoding.
